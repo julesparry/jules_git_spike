@@ -1,0 +1,1 @@
+If you clone a repository, then the remote repository of the clone is the repository you cloned from. 
