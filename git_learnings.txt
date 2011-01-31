@@ -1,1 +1,3 @@
-If you clone a repository, then the remote repository of the clone is the repository you cloned from. 
+If you clone a repository, then the remote repository of the clone is the repository you cloned from.
+git log --graph --abbrev-commit --pretty=oneline
+ 
