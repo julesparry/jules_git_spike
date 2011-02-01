@@ -1,3 +1,7 @@
 If you clone a repository, then the remote repository of the clone is the repository you cloned from.
+
 git log --graph --abbrev-commit --pretty=oneline
+
+# pull with a rebase does the merges at you end, and does not result in an additional merge.
+pull --rebase 
  
